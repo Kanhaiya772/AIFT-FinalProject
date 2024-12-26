@@ -16,7 +16,6 @@ A web-based application to manage employee information efficiently. This project
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
