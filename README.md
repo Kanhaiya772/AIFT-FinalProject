@@ -1,11 +1,11 @@
 # Employee Information Management System
 
+This project is the culmination of the AIFT training program. It showcases the application of AI concepts in a practical scenario.
 A web-based application to manage employee information efficiently. This project includes features for creating, viewing, updating, and deleting employee records with a responsive user interface.
 
 ---
-# AIFT Final Project
 
-This project is the culmination of the AIFT training program. It showcases the application of AI concepts in a practical scenario.
+
 
 ## Table of Contents
 
