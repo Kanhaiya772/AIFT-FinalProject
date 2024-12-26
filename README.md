@@ -82,7 +82,7 @@ After setting up the project, you can access the frontend interface to interact 
 - **Backend:**
   - Node.js
   - Express.js
-  - SQLite
+  - Mongodb
 
 - **API Integration:**
   - Axios
