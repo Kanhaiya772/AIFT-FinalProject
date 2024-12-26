@@ -24,7 +24,7 @@ The AIFT Final Project is designed to demonstrate the integration of various AI 
 
 - An API for data processing and model inference.
 - A frontend interface for user interaction.
-- A database to store and manage data.
+- A DB file to store and manage data.
 
 ## Features
 
@@ -54,7 +54,7 @@ To set up the project locally, follow these steps:
 
 3. **Set up the database:**
 
-   Ensure you have SQLite installed. The project uses `data.db` as the database file. If it's not present, create it and run the necessary migrations.
+   The project uses `data.db` as the database file. If it's not present, create it and run the necessary migrations.
 
 4. **Start the development server:**
 
@@ -82,7 +82,6 @@ After setting up the project, you can access the frontend interface to interact 
 - **Backend:**
   - Node.js
   - Express.js
-  - Mongodb
 
 - **API Integration:**
   - Axios
@@ -101,7 +100,7 @@ AIFT-FinalProject/
 │   ├── pages/             # Page components
 │   ├── App.js             # Main application file
 │   └── index.js           # Entry point
-├── data.db                # SQLite database file
+├── data.db                # Database file
 ├── index.html             # Main HTML file
 ├── package.json           # Project metadata and dependencies
 ├── postcss.config.js      # PostCSS configuration
