@@ -20,7 +20,7 @@ A web-based application to manage employee information efficiently. This project
 
 ## Project Overview
 
-The AIFT Final Project is designed to demonstrate the integration of various AI techniques learned during the training. The project includes:
+The AIFT Final Project is designed for the demonstration of various technologies or technical tools. The project includes:
 
 - An API for data processing.
 - A frontend interface for user interaction.
